@@ -1,7 +1,7 @@
-HoTen = input("Phạm Chấn Phong: ")
-NgaySinh = input("26/09/2013: ")
-QueQuan = input("Tây Ninh: ")
-SoThich = input("Chơi Game: ")
+HoTen = input("Họ và tên: ")
+NgaySinh = input("Ngày tháng năm sinh: ")
+QueQuan = input("Quê quán: ")
+SoThich = input("Sở thích: ")
 
 print("Họ tên: " + HoTen)
 print("Ngày sinh: " + NgaySinh)
