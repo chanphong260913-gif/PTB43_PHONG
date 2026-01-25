@@ -17,7 +17,7 @@ while True:
 	# chọn 1 chức năng
 	choice = int(input("Chọn 1 chức năng: "))
 	# nếu không chọn đúng => báo lỗi
-	while (choice => 5 or choice < 0):
+	while (choice > 5 or choice < 0):
 		choice = int(input("Chọn 1 chức năng (0 => 5): "))
 	# func 5:
 	if choice == 5:
