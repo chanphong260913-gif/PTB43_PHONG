@@ -1,4 +1,5 @@
-#-----67-----67-----67-----67-----67-----67-----
+
+#-----67-----67-----67-----67-----67-----67----- 
 # khai báo sâu kí tự
 chuoirong = ""
 fullname = "Ma Ky Ky"
@@ -14,7 +15,7 @@ for chart in fullname:
 for index in range(len(fullname)):
     # truy cập phần tử
     print(f"{index}: {fullname[index]}")
-#-----67-----67-----67-----67-----67-----67-----
+#-----67-----67-----67-----67-----67-----67-----  
 # + xâu kí tự
 sentence = "My fullname is" + fullname + "."
 print(sentence)
