@@ -1,5 +1,6 @@
-s = 'Good luck with your exam'
-
-a = s.split()
-
-print(a)
+x = 100
+def myfunc():
+    x= 200
+    print(x)
+myfunc()
+print(x)
